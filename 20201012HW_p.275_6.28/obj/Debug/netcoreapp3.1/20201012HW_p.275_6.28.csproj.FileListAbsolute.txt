@@ -1,0 +1,13 @@
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\bin\Debug\netcoreapp3.1\20201012HW_p.275_6.28.exe
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\bin\Debug\netcoreapp3.1\20201012HW_p.275_6.28.deps.json
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\bin\Debug\netcoreapp3.1\20201012HW_p.275_6.28.runtimeconfig.json
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\bin\Debug\netcoreapp3.1\20201012HW_p.275_6.28.runtimeconfig.dev.json
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\bin\Debug\netcoreapp3.1\20201012HW_p.275_6.28.dll
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\bin\Debug\netcoreapp3.1\20201012HW_p.275_6.28.pdb
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\obj\Debug\netcoreapp3.1\20201012HW_p.275_6.28.csprojAssemblyReference.cache
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\obj\Debug\netcoreapp3.1\20201012HW_p.275_6.28.AssemblyInfoInputs.cache
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\obj\Debug\netcoreapp3.1\20201012HW_p.275_6.28.AssemblyInfo.cs
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\obj\Debug\netcoreapp3.1\20201012HW_p.275_6.28.csproj.CoreCompileInputs.cache
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\obj\Debug\netcoreapp3.1\20201012HW_p.275_6.28.dll
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\obj\Debug\netcoreapp3.1\20201012HW_p.275_6.28.pdb
+C:\Users\linyuxuan\Desktop\20201012HW_p.275_6.28\20201012HW_p.275_6.28\obj\Debug\netcoreapp3.1\20201012HW_p.275_6.28.genruntimeconfig.cache
